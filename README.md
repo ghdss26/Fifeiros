@@ -45,13 +45,21 @@ o agrupamento de conjunto de atributos em varias classes simples de forma a otim
 
 -[Vue Js](https://vuejs.org/) - versão 3 
 
-## Pacotes para o Angular 
+## Pacotes para o Vue Js 
 
 -[node](https://nodejs.org/en/download) 
 
 -[npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 -[vueCli 5.0](https://www.npmjs.com/package/@vue/cli/v/5.0.8)
+
+## Depedências do Vue Js 
+
+-[Axios](https://axios-http.com/ptbr/docs/intro) 
+
+-[npm Bootstrap](https://www.npmjs.com/package/bootstrap) 
+
+-[Materialize Css](https://materializecss.com/)
 
 ## Rotas do Spring Boot - Sistema de Fifeiros do Cordeiro 
 
