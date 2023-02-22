@@ -63,7 +63,7 @@ Entidade Usuario - localhost:8080/usuario
 
 ```bash 
   
-  $ Vai mostrar as todas as informações da API do Sistema, pelo banco de dados no programa Insomnia
+ $ Vai mostrar as todas as informações da API do Sistema, pelo banco de dados no programa Insomnia
 ```
 
 
